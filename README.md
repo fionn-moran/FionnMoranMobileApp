@@ -1,6 +1,6 @@
 # EZ Bike Hire
 
-EZ Bike Hire is an android app that I have created as part of my Mobile App Development module. It is as the title suggests a bicycle hire app. The app utilises firebase
+EZ Bike Hire is an android app that I have created as part of my Mobile App Development module. It is as the title suggests a bicycle hire app. The app utilises firebase as persistence, and also makes use of 3rd-party APIs such as Google Maps and YouTube.
 
 ## Login/Register
 
