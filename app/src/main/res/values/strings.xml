@@ -1,3 +1,43 @@
 <resources>
-    <string name="app_name">FionnMoranMobileApp</string>
+    <string name="app_name">EZ Bike Hire</string>
+    <string name="name">Name</string>
+    <string name="button_location">Check the Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="signup_btn">Sign Up</string>
+    <string name="update_btn">Update</string>
+    <string name="delete_btn">Delete Account</string>
+    <string name="login_btn">Login</string>
+    <string name="email_hint">Email...</string>
+    <string name="password_hint">Password...</string>
+    <string name="hours_hint">How many hours are you booking?</string>
+    <string name="logout_btn">Logout</string>
+    <string name="tVintro">Welcome to the EZ Bike Hire App! You can check the map below for your most convenient hiring location. When you find something suitable, fill in your booking details on the next page! </string>
+    <string name="tVsignup1">EZ Bike Hire</string>
+    <string name="tVlogin1">EZ Bike Hire</string>
+    <string name="edit_btn">Manage Booking</string>
+    <string name="confirm_btn">Confirm Booking</string>
+    <string name="bookings_btn">View Bookings</string>
+    <string name="back_btn">Return</string>
+    <string name="returntxt">Return</string>
+    <string name="deleteBooking">Delete</string>
+    <string name="editBooking">Edit/Rate</string>
+    <string name="aboutBtn">How it Works</string>
+    <string name="ytAPI">AIzaSyA4YQd3NTqgw3amt3MCTDEuGF6XPv8kuDM</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
 </resources>

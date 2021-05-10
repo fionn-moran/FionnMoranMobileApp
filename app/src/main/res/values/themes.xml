@@ -12,5 +12,18 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+
+    </style>
+    <style name="Theme.FionnMoranMobileApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.FionnMoranMobileApp.AppBarOverlay"
+        parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.FionnMoranMobileApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="CustomRatingBar" parent="Widget.AppCompat.RatingBar">
+        <item name="colorControlNormal">#f57c00</item>
+        <item name="colorControlActivated">#c51162</item>
     </style>
 </resources>
